@@ -14,7 +14,7 @@ The instructions of seting up *HSCA* and validate its general functionality are 
 git clone https://github.com/zeroEuphemia/HSCA.git
 ```
 
-Additionally, HSCA is also available on Zenodo. You can access it [here](https://zenodo.org/).
+Additionally, HSCA is also available on Zenodo. You can access it [here](https://doi.org/10.5281/zenodo.14732179).
 
 ## Instructions for Building *HSCA*
 
