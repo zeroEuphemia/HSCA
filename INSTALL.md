@@ -6,7 +6,7 @@ sh build.sh
 
 By executing this script file, users can build both *SamplingCA* and *HSCA*. Note that both *SamplingCA* and *HSCA* should be built on a 64-bit GNU/Linux operating system.
 
-**Tip**: Both *SamplingCA* and *HSCA* depend on *MiniSAT*, but *MiniSAT* may not compile successfully when using specific versions of gcc. In this case, users may seek for solutions on the Internet or in the Github page of [MiniSAT](https://github.com/niklasso/minisat).
+**Tip**: Both *SamplingCA* and *HSCA* depend on *MiniSAT*, but *MiniSAT* may not compile successfully when using specific versions of gcc. In this case, users may seek for solutions on the Internet or in the Github page of [MiniSAT](https://github.com/niklasso/minisat). We used gcc version 9.4.0 for compilation.
 
 We also provide a Docker image for running *HSCA*.
 
